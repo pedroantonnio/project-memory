@@ -1,3 +1,8 @@
+---
+name: project-memory
+description: Durable, token-efficient project memory for coding agents. Maintains a compact project summary plus linked Markdown records for architecture, decisions, features, incidents, and migrations, so agents load only relevant context and update durable knowledge without relying on a single ever-growing implementation log.
+---
+
 # Project Memory
 
 A durable, token-efficient project memory protocol for coding agents.
